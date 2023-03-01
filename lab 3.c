@@ -5,3 +5,5 @@ int main(){
 	printf("Enter a character: ");
 	scanf("%g", name);
 	putchar(name);
+return 0;
+}
